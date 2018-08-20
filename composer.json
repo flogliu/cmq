@@ -1,6 +1,8 @@
 {
     "name": "same/cmq",
     "description": "腾讯cmq-php-sdk改成composer安装",
+    "keywords": ["cmq","tecent","cmq-php-sdk"],
+    "license": "MIT",
     "authors": [
         {
             "name": "flog",
