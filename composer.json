@@ -1,0 +1,16 @@
+{
+    "name": "same/cmq",
+    "description": "腾讯cmq-php-sdk改成composer安装",
+    "authors": [
+        {
+            "name": "flog",
+            "email": "flog@same.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Same\\Cmq\\": "src/"
+        }
+    }
+}
